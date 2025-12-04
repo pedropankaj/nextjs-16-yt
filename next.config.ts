@@ -11,7 +11,7 @@ const nextConfig: NextConfig = {
         port: "",
       },
       {
-        hostname: "lovable-bloodhound-237.convex.cloud",
+        hostname: "grateful-mosquito-699.convex.cloud",
         protocol: "https",
         port: "",
       },
