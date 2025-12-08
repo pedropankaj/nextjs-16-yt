@@ -34,6 +34,7 @@ export async function generateMetadata({
   return {
     title: post.title,
     description: post.body,
+    authors: [{ name: "Jan marshal" }],
   };
 }
 

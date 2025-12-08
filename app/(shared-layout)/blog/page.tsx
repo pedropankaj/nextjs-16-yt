@@ -1,3 +1,4 @@
+/* eslint-disable @next/next/no-img-element */
 import { buttonVariants } from "@/components/ui/button";
 import { Card, CardContent, CardFooter } from "@/components/ui/card";
 import { Skeleton } from "@/components/ui/skeleton";
